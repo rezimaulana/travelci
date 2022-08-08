@@ -1,0 +1,254 @@
+/* 
+Moch Rifqi Ramdhani - https://about.me/moriram
+Powered By F R E E D O M   W E B   I N D O N E S I A 
+ */
+
+ .ColorIden{
+  color: #005DA6;
+ }
+ .imgHMIF{
+   margin:1px;
+ }
+
+ .imgHMIF img{
+   margin:1px;
+   height:150px
+ }
+
+.fontLight{
+  font-family: "OpenLight";
+}
+
+.fontRegular{
+  font-family: "OpenRegular";
+}
+
+.clr-white{
+  color: #fff!important;
+}
+.btn-warning{
+  background-color: rgb(212, 211, 211)!important;
+  color:#666!important;
+  border: none;
+  border-radius: 0px!important;
+}
+.btn-warning:hover{
+  background-color: rgb(212, 211, 211)!important;
+  color:#fff!important;
+}
+.btn-success{
+  background-color: #3b5998!important;
+  color:#fff!important;
+  border: none;
+  border-radius: 0px!important;
+}
+.btn-success:hover{
+  background-color: #476bb8!important;
+}
+
+.warning{
+  background-color: #005DA6;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.crimson{
+  color:#fff;
+}
+
+.heading-login{
+  padding-top: 10px;
+  font-size: 30pt;
+}
+
+
+.btn-primary{
+  background-color: #005DA6!important;
+  border: none;
+  border-radius: 0px!important;
+}
+.btn-primary:hover{
+  background-color: #005DA6!important;
+}
+.btn-primary:active{
+  transform: translateY(4px);
+  outline: 0px!important;
+}
+body{
+  background-image: url(../img/travel-background2.jpg);
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+  background-color: #999;
+}
+.wrapper {
+ margin-top: 36px;
+}
+.color{
+  color:#999;
+  text-decoration: none;
+}
+.color:hover{
+  text-decoration: none;
+  color:#fff;
+}
+.white{
+  color:#f1f1f1;
+}
+.form-signin {
+  max-width: 500px;
+  padding: 15px 35px 45px;
+}
+.form-signin img{
+    width: 100%;
+}
+  .checkbox {
+    font-weight: normal;
+  }
+  .form-control {
+    position: relative;
+    font-size: 15px;
+    height: auto;
+    padding: 10px;
+    border-radius: 0px!important;
+    
+  }
+  input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: rgba(255,255,255,0.6);
+    border: #f1f1f1 solid 1px;
+    font-size: 12pt;
+    color: #000;
+  }
+  input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: transparent;
+    border: #f1f1f1 solid 1px;
+    font-size: 12pt;
+    color: #fff;
+  }
+
+  input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: rgba(255,255,255,0.6);
+    font-size: 12pt;
+    color: black!important;
+  }
+  
+  
+  input[type="text"]:focus,  input[type="email"]:focus,
+  input[type="password"]:focus,
+  .uneditable-input:focus {
+  border-color: #fff;
+  box-shadow: 0 1px 1px #fff inset, 0 0 1px #fff;
+  outline: 0 none;
+  }
+
+  .layout-form{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%!important;
+  width: 60%;
+}
+
+::-webkit-input-placeholder { 
+    color:    #f1f1f1!important;
+}
+:-moz-placeholder {
+   color:    #f1f1f1!important;
+   opacity:  1;
+}
+::-moz-placeholder { 
+   color:    #f1f1f1!important;
+   opacity:  1;
+}
+:-ms-input-placeholder { 
+   color:    #f1f1f1!important;
+}
+::-ms-input-placeholder { 
+   color:    #f1f1f1!important;
+}
+
+@media(max-width:768px) {
+  .layout-form{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%!important;
+}
+  .layout{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%!important;
+    padding-top: 5px;
+  }
+
+  .heading-login span{
+    margin-left: 35px;
+  }
+  .heading-login{
+    margin-top: 0px!important;
+  }
+
+}
+
+
+h1.form-signin-heading.clr-white.heading-login.fontLight {
+    font-family: arial;
+    font-weight: lighter!important;
+}
+
+.help-block{
+	color: #d40400!important;
+}
+
+.has-error .form-control{
+	border-color: #d40400!important;
+}
+
+.has-success .form-control{
+  border-color: #00b503!important;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+/*support google chrome*/
+
+
+.form-login::-webkit-input-placeholder{
+	color: black!important;
+}
+ 
+/*support mozilla*/
+.form-login:-moz-input-placeholder{
+	color: black!important;
+}
+ 
+/*support internet explorer*/
+.form-login:-ms-input-placeholder{
+	color: black!important;
+}
+
+.form-login{
+    background-color: rgba(255,255,255,0.6);
+    color: #000;
+}
+
+.alert-danger{
+  background-color: rgba(242,222,222, 0.8)!important;
+}
+
+@media (min-width: 320px) and (max-width: 375px){
+    a#login-tour {
+      margin-top: 4px;
+  }
+}
