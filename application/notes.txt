@@ -1,0 +1,16 @@
+upload bukti pembayaran
+upload ktp
+asset root img file destination
+template di folder vendor
+banyak routes
+route baru = route asli
+ada helper cek login
+model cuma 1
+views config template footer header
+view page isi semua halaman
+3 modul pemesanan pembayaran pembatalan
+3 jenis laporan pemesanan laporan pembayaran laporan pembatalan
+4 user level direktur manajer tur manajer keuangan pelanggan
+menu bisa di edit allow akses
+4 data master/proses paket wisata, pelanggang, pembatalan, pembayaran
+bisa custom destinasi
